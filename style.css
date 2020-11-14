@@ -1,0 +1,38 @@
+.about
+{
+    color: purple;
+
+}
+
+.about-i_am
+{
+    color: yellow;
+
+}
+
+.grid-table
+{
+    display: grid;
+    grid-template-rows: auto auto;
+    grid-template-columns: auto auto auto;
+
+}
+
+.quote
+{
+    font-style: italic;
+
+}
+
+h3
+{
+    color: red;
+
+}
+
+p
+{
+    font-style: italic;
+
+}
+                            
